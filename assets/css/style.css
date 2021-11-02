@@ -1776,9 +1776,14 @@ section {
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
   background: #df3740;
 }
-#footer .copyright {
+#footer .slogan {
+  font-size: 16px;
   text-align: center;
   padding-top: 30px;
+}
+#footer .copyright {
+  text-align: center;
+  padding-top: 10px;
 }
 #footer .credits {
   padding-top: 10px;
@@ -1792,5 +1797,5 @@ section {
   font-weight: 600;
 }
 #footer .credits a:hover {
-  color: white;
+  color: #df3740;
 }
